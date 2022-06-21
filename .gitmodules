@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "midasml"]
+	path = midasml
+	url = https://github.com/jstriaukas/midasml
+	shallow = true
+	registered = true
