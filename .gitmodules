@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LassoNet"]
 	path = LassoNet
 	url = https://github.com/cran/LassoNet
-	shallow = true
-	registered = true
 [submodule "midasml"]
 	path = midasml
 	url = https://github.com/jstriaukas/midasml
-	shallow = true
-	registered = true
