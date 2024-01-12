@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "FAS"]
 	path = FAS
-	url = https://github.com/cran/FAS
+	url = https://github.com/jstriaukas/fas
 [submodule "LassoNet"]
 	path = LassoNet
 	url = https://github.com/cran/LassoNet
